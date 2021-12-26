@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<!--Paint Project-->
+
+<head>
+
+    <link rel="stylesheet" href="Paint.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+</head>
+
+<body>
+    
+    <div class="board">
+        <canvas>
+
+            <script src="Paint.js"></script>
+
+        </canvas>
+    </div>   
+
+    <div class="icons">
+        <a><i class="material-icons" title="pencil" onclick="pencil()">edit</i></a>
+        <a><i class="material-icons" title="blue" style="color: blue;" onclick="change_colour(this)">water_drop</i></a>
+        <a><i class="material-icons" title="red" style="color: red;" onclick="change_colour(this)">water_drop</i></a>
+        <a><i class="material-icons" title="yellow" style="color: yellow;" onclick="change_colour(this)">water_drop</i></a>
+        <a><i class="material-icons" title="size down" onclick="dsize()">remove</i></a> 
+        <a><i class="material-icons" title="size up" onclick="isize()">add</i></a> 
+        <a><i class="material-icons" title="eraser" onclick="erase()">auto_fix_normal</i></a>
+    </div>
+
+    <div id="BoardInfo">
+        <p id = "colour">Colour: black</p>
+        <p id = "ssize">Stroke size: 5</p>
+    </div>
+
+</body>
+
+</html>

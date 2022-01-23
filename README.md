@@ -5,7 +5,11 @@ A webpage that uses the canvas tag in html to create an application where the us
 
 ### Display
 
+![This is an image](https://github.com/Mohammad0336/Paint_Application/blob/main/Images/Display.png)
+
 ### Functions
+
+![This is an image](https://github.com/Mohammad0336/Paint_Application/blob/main/Images/IconBar.png)
 
 ### Future
 

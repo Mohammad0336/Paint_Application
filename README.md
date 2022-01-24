@@ -19,9 +19,8 @@ Within the webpage there is a built-in tool bar which allows the user to utizile
 - Eraser: Normal eraser 
 
 ### Future
-Components that can or will be added in the future to upgrade the program.
+Components that can or will be added in the future to upgrade the program:
 
-Functions to add:
 - Shape adder
 - Select like paint app
 - More colours 

@@ -4,10 +4,12 @@ A webpage that uses the canvas tag in html to create an application where the us
 ## Project Information
 
 ### Display
+This is the initial state of the paint program.
 
 ![This is an image](https://github.com/Mohammad0336/Paint_Application/blob/main/Images/Display.png)
 
 ### Functions
+Within the webpage there is a built-in tool bar which allows the user to utizile the functions below. 
 
 ![This is an image](https://github.com/Mohammad0336/Paint_Application/blob/main/Images/IconBar.png)
 
@@ -17,6 +19,7 @@ A webpage that uses the canvas tag in html to create an application where the us
 - Eraser: Normal eraser 
 
 ### Future
+Components that can or will be added in the future to upgrade the program
 
 Functions to add:
 - Shape adder
